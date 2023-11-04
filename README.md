@@ -1,6 +1,9 @@
 # Generating-Hashtags
 Hashtags are generated for Instagram post by creating the new account.
-In this project there are three members, Team Leader - P.POOJA, Team members - AYYAN PANDI.K & DINESH.D.J, Faculty Mentor - Mr.S.KARTHIK 
+
+In this project there are three member,
+[Team Leader - P.POOJA - Reg no : 110820212313] Team members - [AYYAN PANDI.K - Reg no : 110820212001] & [DINESH.D.J -  Reg : 110820212304 ] , Faculty Mentor - Mr.S.KARTHIK 
+
 Project output - The hashtags are created to instagram post by generating photo which is uploaded in the instagram account.
 
 https://github.com/POOJAPARASHURAM/Generating-Hashtags/assets/149407600/e4b84c0b-e0ba-49ae-af05-36649ae905fe
