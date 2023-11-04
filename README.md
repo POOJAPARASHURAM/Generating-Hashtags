@@ -9,11 +9,6 @@ Project output - The hashtags are created to instagram post by generating photo 
 https://github.com/POOJAPARASHURAM/Generating-Hashtags/assets/149407600/e4b84c0b-e0ba-49ae-af05-36649ae905fe
 
 
-
-https://github.com/POOJAPARASHURAM/Generating-Hashtags/assets/149407600/ae7a328f-9e3f-479d-93de-be85dc2f2b64
-
-
-
 https://github.com/POOJAPARASHURAM/Generating-Hashtags/assets/149407600/65eba51d-af2d-4e8e-9c4c-afc8a9d99f45
 
 Instagram account link: https://www.instagram.com/p/CzGF1XUri24/?utm_source=ig_web_copy_link&igshid=OTQ5NTI0NzZiOA==
